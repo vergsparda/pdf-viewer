@@ -1,6 +1,6 @@
 # pdf-viewer
-modified pdf viewer vue-pdf-embed
-PdfViwer accepts url blob of pdf.file
+### modified pdf viewer vue-pdf-embed
+### PdfViwer accepts url blob of pdf.file
 ![image info](./src//assets/screen.gif)
 ## Project setup
 ```
