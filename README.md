@@ -1,5 +1,7 @@
 # pdf-viewer
-
+modified pdf viewer vue-pdf-embed
+PdfViwer accepts url blob of pdf.file
+![image info](./src//assets/screen.gif)
 ## Project setup
 ```
 npm install
@@ -9,16 +11,5 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

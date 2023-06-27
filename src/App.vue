@@ -18,7 +18,7 @@ export default {
       url: '',
       fileId: '11369802'
     }
-  }
+  },
 }
 </script>
 
